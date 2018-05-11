@@ -13,7 +13,7 @@ SOURCE="`pwd`/"
 ### Duong dan den file Key
 	KEYSTORE="./giaynhapcommandtools/my-release-key.keystore"
 ### Mat khau cua key
-	KEYPASS="dovanthuc987"
+	KEYPASS="password"
 ### Neu bao chua khai bao ANDROID HOME THI bao vao day
 #	ANDROID_HOME=
 ### Thu muc chua file output
